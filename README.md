@@ -12,7 +12,7 @@ Additionaly the dev added:
 - [ ] Ability to delete (only from cache) the account
 
 ## Helpful links:
-- [Repository on Codesandbox](https://codesandbox.io/p/github/rafalmoneta/ig-accounts/main) - But you need to update your env variables. In left top corner, click on the square (menu) and navigate to the Project Settings -> Variables and put required variables (use example.env to know what variables you need)
+- [Repository on Codesandbox](https://codesandbox.io/p/github/rafalmoneta/ig-accounts/main) - But you need to update your env variables. In left top corner, click on the square (menu) and navigate to the Project Settings -> Variables and put required variables (use example.env to know which variables you need)
 - [Deployed live version of application](https://rafalmoneta.github.io/ig-accounts/)
 
 ## Technologies and Tools
