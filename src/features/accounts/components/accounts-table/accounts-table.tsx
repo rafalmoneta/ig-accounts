@@ -22,6 +22,8 @@ import {
 import { AccountsTableToolbar } from "./accounts-table-toolbar";
 import { Account } from "../../types";
 import { accountsTableColumns } from "./accounts-table-columns";
+import { Button } from "@/components/button";
+import { AccountsTablePagination } from "./accounts-table-pagination";
 
 interface AccountsTableProps {
   data: Account[];
