@@ -12,8 +12,8 @@ Additionaly the dev added:
 - [ ] Ability to delete (only from cache) the account
 
 ## Helpful links:
-- [Repository on Codesandbox]()
-- [Deployed live version of application]()
+- [Repository on Codesandbox](https://codesandbox.io/p/github/rafalmoneta/ig-accounts/main) - But you need to update your env variables. In left top corner, click on the square (menu) and navigate to the Project Settings -> Variables and put required variables (use example.env to know which variables you need)
+- [Deployed live version of application](https://rafalmoneta.github.io/ig-accounts/)
 
 ## Technologies and Tools
 - React: React is a popular JavaScript library for building user interfaces. It allows for efficient and reusable component-based development, making it ideal for creating interactive web applications.
